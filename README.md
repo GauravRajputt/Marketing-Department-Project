@@ -34,22 +34,6 @@ git clone https://github.com/27abhishek27/Marketing_Department_Project.git
 cd Marketing_Department_Project
 ```
 
-### 2️⃣ Install dependencies:
-
-Ensure you have the following Python packages installed:
-
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
-
-You can install them using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
 ## 🔍 Methodology
 
 ### 1. **Data Preprocessing**
