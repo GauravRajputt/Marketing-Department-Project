@@ -1,4 +1,4 @@
-# Marketing Department 
+# Marketing Department Project
 
 ## 📌 Overview
 
