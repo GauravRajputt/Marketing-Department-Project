@@ -25,15 +25,6 @@ The dataset, `Marketing_data.csv`, includes information pertinent to marketing c
 - **Purchase History**: Record of past purchases made by the customer.
 - **Campaign Response**: Customer's response to previous marketing campaigns.
 
-## 🚀 Installation
-
-### 1️⃣ Clone the repository:
-
-```bash
-git clone https://github.com/27abhishek27/Marketing_Department_Project.git
-cd Marketing_Department_Project
-```
-
 ## 🔍 Methodology
 
 ### 1. **Data Preprocessing**
