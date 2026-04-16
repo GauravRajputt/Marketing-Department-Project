@@ -25,7 +25,7 @@ The dataset, `Marketing_data.csv`, includes information pertinent to marketing c
 - **Purchase History**: Record of past purchases made by the customer.
 - **Campaign Response**: Customer's response to previous marketing campaigns.
 
-## 🔍 
+## 🔍 Methodology
 
 ### 1. **Data Preprocessing**
 
